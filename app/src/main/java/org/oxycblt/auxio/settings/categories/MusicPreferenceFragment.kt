@@ -22,9 +22,9 @@ import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import androidx.preference.Preference
 import coil3.ImageLoader
+import com.android.music.R
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.music.MusicViewModel
 import org.oxycblt.auxio.settings.BasePreferenceFragment
 import org.oxycblt.auxio.settings.ui.WrappedDialogPreference

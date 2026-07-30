@@ -25,13 +25,13 @@ import androidx.core.view.isInvisible
 import androidx.dynamicanimation.animation.SpringAnimation
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
 import com.google.android.material.R as MR
 import com.google.android.material.shape.MaterialShapeDrawable
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.min
 import kotlin.math.sign
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.ui.Effect
 import org.oxycblt.auxio.ui.Spatial
 import org.oxycblt.auxio.util.getDimen

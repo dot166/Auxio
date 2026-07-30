@@ -22,9 +22,9 @@ import android.view.MenuItem
 import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.navArgs
+import com.android.music.R
+import com.android.music.databinding.DialogMenuBinding
 import dagger.hilt.android.AndroidEntryPoint
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.DialogMenuBinding
 import org.oxycblt.auxio.detail.DetailViewModel
 import org.oxycblt.auxio.list.ListViewModel
 import org.oxycblt.auxio.music.MusicViewModel

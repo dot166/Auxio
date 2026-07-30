@@ -25,10 +25,10 @@ import android.view.MotionEvent
 import android.view.View
 import android.view.WindowInsets
 import androidx.coordinatorlayout.widget.CoordinatorLayout
+import com.android.music.R
 import com.google.android.material.R as MR
 import com.google.android.material.shape.MaterialShapeDrawable
 import com.google.android.material.shape.ShapeAppearanceModel
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.ui.BaseBottomSheetBehavior
 import org.oxycblt.auxio.ui.UISettings
 import org.oxycblt.auxio.util.getAttrColorCompat

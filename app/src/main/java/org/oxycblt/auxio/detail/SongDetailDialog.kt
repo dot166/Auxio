@@ -24,9 +24,9 @@ import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
+import com.android.music.R
+import com.android.music.databinding.DialogSongDetailBinding
 import dagger.hilt.android.AndroidEntryPoint
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.DialogSongDetailBinding
 import org.oxycblt.auxio.detail.list.SongProperty
 import org.oxycblt.auxio.detail.list.SongPropertyAdapter
 import org.oxycblt.auxio.list.adapter.UpdateInstructions

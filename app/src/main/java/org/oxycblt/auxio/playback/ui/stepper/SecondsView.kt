@@ -25,8 +25,8 @@ import android.view.LayoutInflater
 import android.widget.LinearLayout
 import androidx.dynamicanimation.animation.DynamicAnimation
 import androidx.dynamicanimation.animation.SpringAnimation
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.PlayerFastSeekSecondsViewBinding
+import com.android.music.R
+import com.android.music.databinding.PlayerFastSeekSecondsViewBinding
 import org.oxycblt.auxio.ui.Effect
 
 class SecondsView(context: Context, attrs: AttributeSet?) : LinearLayout(context, attrs) {

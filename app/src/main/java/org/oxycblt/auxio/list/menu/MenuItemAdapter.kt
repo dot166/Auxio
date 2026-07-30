@@ -21,7 +21,7 @@ package org.oxycblt.auxio.list.menu
 import android.view.MenuItem
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
-import org.oxycblt.auxio.databinding.ItemMenuOptionBinding
+import com.android.music.databinding.ItemMenuOptionBinding
 import org.oxycblt.auxio.list.ClickableListListener
 import org.oxycblt.auxio.list.adapter.FlexibleListAdapter
 import org.oxycblt.auxio.list.recycler.DialogRecyclerView

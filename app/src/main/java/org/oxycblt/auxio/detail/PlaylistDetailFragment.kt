@@ -27,9 +27,9 @@ import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
+import com.android.music.databinding.FragmentDetailBinding
 import dagger.hilt.android.AndroidEntryPoint
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.FragmentDetailBinding
 import org.oxycblt.auxio.detail.list.PlaylistDetailListAdapter
 import org.oxycblt.auxio.detail.list.PlaylistDragCallback
 import org.oxycblt.auxio.list.Item

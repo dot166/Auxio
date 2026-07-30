@@ -28,8 +28,8 @@ import android.os.Bundle
 import android.util.SizeF
 import android.view.View
 import android.widget.RemoteViews
-import org.oxycblt.auxio.BuildConfig
-import org.oxycblt.auxio.R
+import com.android.music.BuildConfig
+import com.android.music.R
 import org.oxycblt.auxio.music.resolve
 import org.oxycblt.auxio.music.resolveNames
 import org.oxycblt.auxio.playback.service.PlaybackActions

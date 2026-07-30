@@ -20,11 +20,11 @@ package org.oxycblt.auxio.music.decision
 
 import android.content.Context
 import androidx.lifecycle.ViewModel
+import com.android.music.R
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.list.sort.Sort
 import org.oxycblt.auxio.music.MusicRepository
 import org.oxycblt.auxio.music.PlaylistDecision

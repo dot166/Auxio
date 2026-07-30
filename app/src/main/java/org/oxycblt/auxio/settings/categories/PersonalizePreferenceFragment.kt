@@ -19,7 +19,7 @@
 package org.oxycblt.auxio.settings.categories
 
 import androidx.navigation.fragment.findNavController
-import org.oxycblt.auxio.R
+import com.android.music.R
 import org.oxycblt.auxio.settings.BasePreferenceFragment
 import org.oxycblt.auxio.settings.ui.WrappedDialogPreference
 import org.oxycblt.auxio.util.navigateSafe

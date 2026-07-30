@@ -22,8 +22,8 @@ import android.content.Context
 import android.util.AttributeSet
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
 import kotlin.math.max
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.util.getDimenPixels
 
 /**

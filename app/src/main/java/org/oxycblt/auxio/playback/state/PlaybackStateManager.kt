@@ -18,8 +18,8 @@
  
 package org.oxycblt.auxio.playback.state
 
+import com.android.music.BuildConfig
 import javax.inject.Inject
-import org.oxycblt.auxio.BuildConfig
 import org.oxycblt.auxio.list.adapter.UpdateInstructions
 import org.oxycblt.auxio.playback.state.PlaybackStateManager.Listener
 import org.oxycblt.musikr.Music

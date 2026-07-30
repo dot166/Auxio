@@ -20,9 +20,9 @@ package org.oxycblt.auxio.music.service
 
 import android.content.Context
 import android.support.v4.media.MediaBrowserCompat.MediaItem
+import com.android.music.BuildConfig
+import com.android.music.R
 import javax.inject.Inject
-import org.oxycblt.auxio.BuildConfig
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.detail.DetailGenerator
 import org.oxycblt.auxio.detail.DetailSection
 import org.oxycblt.auxio.home.HomeGenerator

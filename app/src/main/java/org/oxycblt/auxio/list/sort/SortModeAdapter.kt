@@ -21,7 +21,7 @@ package org.oxycblt.auxio.list.sort
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
-import org.oxycblt.auxio.databinding.ItemSortModeBinding
+import com.android.music.databinding.ItemSortModeBinding
 import org.oxycblt.auxio.list.ClickableListListener
 import org.oxycblt.auxio.list.adapter.FlexibleListAdapter
 import org.oxycblt.auxio.list.recycler.DialogRecyclerView

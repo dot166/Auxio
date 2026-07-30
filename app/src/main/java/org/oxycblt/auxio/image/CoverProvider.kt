@@ -25,8 +25,8 @@ import android.content.UriMatcher
 import android.database.Cursor
 import android.net.Uri
 import android.os.ParcelFileDescriptor
+import com.android.music.BuildConfig
 import kotlinx.coroutines.runBlocking
-import org.oxycblt.auxio.BuildConfig
 import org.oxycblt.auxio.image.covers.SettingCovers
 import org.oxycblt.musikr.covers.CoverResult
 

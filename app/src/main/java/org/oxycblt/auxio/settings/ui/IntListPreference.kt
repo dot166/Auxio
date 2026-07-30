@@ -27,8 +27,8 @@ import androidx.core.content.res.getTextArrayOrThrow
 import androidx.preference.DialogPreference
 import androidx.preference.Preference
 import androidx.preference.PreferenceViewHolder
+import com.android.music.R
 import java.lang.reflect.Field
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.util.getInteger
 import org.oxycblt.auxio.util.lazyReflectedField
 

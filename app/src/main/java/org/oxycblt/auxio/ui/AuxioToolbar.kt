@@ -43,9 +43,9 @@ import androidx.core.view.get
 import androidx.core.view.isNotEmpty
 import androidx.core.view.isVisible
 import androidx.core.view.size
+import com.android.music.R
+import com.android.music.databinding.ViewToolbarBinding
 import com.google.android.material.R as MR
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.ViewToolbarBinding
 import org.oxycblt.auxio.util.unlikelyToBeNull
 
 /**

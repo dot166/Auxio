@@ -18,8 +18,8 @@
  
 package org.oxycblt.auxio.list.sort
 
+import com.android.music.R
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
 import org.oxycblt.musikr.Album
 import org.oxycblt.musikr.Artist
 import org.oxycblt.musikr.Genre

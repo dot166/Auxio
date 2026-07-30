@@ -27,9 +27,9 @@ import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
+import com.android.music.R
+import com.android.music.databinding.DialogPlaylistExportBinding
 import dagger.hilt.android.AndroidEntryPoint
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.DialogPlaylistExportBinding
 import org.oxycblt.auxio.music.MusicViewModel
 import org.oxycblt.auxio.music.resolve
 import org.oxycblt.auxio.ui.ViewBindingMaterialDialogFragment

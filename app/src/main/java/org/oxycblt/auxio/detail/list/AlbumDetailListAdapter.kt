@@ -23,11 +23,11 @@ import androidx.core.view.isGone
 import androidx.core.view.isInvisible
 import androidx.core.view.isVisible
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
+import com.android.music.databinding.ItemAlbumSongBinding
+import com.android.music.databinding.ItemDiscHeaderBinding
 import com.google.android.material.divider.MaterialDivider
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.ItemAlbumSongBinding
-import org.oxycblt.auxio.databinding.ItemDiscHeaderBinding
 import org.oxycblt.auxio.detail.list.AlbumSongViewHolder.Companion.from
 import org.oxycblt.auxio.detail.list.DiscDividerViewHolder.Companion.from
 import org.oxycblt.auxio.detail.list.DiscHeaderViewHolder.Companion.from

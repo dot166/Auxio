@@ -36,10 +36,10 @@ import androidx.annotation.PluralsRes
 import androidx.annotation.Px
 import androidx.annotation.StringRes
 import androidx.core.content.ContextCompat
+import com.android.music.R
 import kotlin.reflect.KClass
 import org.oxycblt.auxio.IntegerTable
 import org.oxycblt.auxio.MainActivity
-import org.oxycblt.auxio.R
 
 /**
  * Get a [LayoutInflater] instance from this [Context].

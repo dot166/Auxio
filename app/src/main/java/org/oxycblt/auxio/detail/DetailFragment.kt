@@ -25,14 +25,14 @@ import android.view.View
 import androidx.core.view.updatePadding
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.findNavController
+import com.android.music.BuildConfig
+import com.android.music.R
+import com.android.music.databinding.FragmentDetailBinding
 import com.google.android.material.appbar.AppBarLayout
 import com.google.android.material.transition.MaterialSharedAxis
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.min
-import org.oxycblt.auxio.BuildConfig
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.FragmentDetailBinding
 import org.oxycblt.auxio.detail.list.DetailListAdapter
 import org.oxycblt.auxio.list.ListFragment
 import org.oxycblt.auxio.list.ListViewModel

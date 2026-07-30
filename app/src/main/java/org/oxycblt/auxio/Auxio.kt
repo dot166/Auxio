@@ -23,6 +23,9 @@ import android.content.Intent
 import androidx.core.content.pm.ShortcutInfoCompat
 import androidx.core.content.pm.ShortcutManagerCompat
 import androidx.core.graphics.drawable.IconCompat
+import com.android.music.BuildConfig
+import com.android.music.CopyleftNoticeTreeNew
+import com.android.music.R
 import dagger.hilt.android.HiltAndroidApp
 import javax.inject.Inject
 import org.oxycblt.auxio.home.HomeSettings
@@ -49,8 +52,11 @@ class Auxio : Application() {
         @Suppress("KotlinConstantConditions")
         if (
             BuildConfig.APPLICATION_ID != "org.oxycblt.auxio" &&
-                BuildConfig.APPLICATION_ID != "org.oxycblt.auxio.debug"
+                BuildConfig.APPLICATION_ID != "org.oxycblt.auxio.debug" &&
+                BuildConfig.APPLICATION_ID != "com.android.music" &&
+                BuildConfig.APPLICATION_ID != "com.android.music.debug"
         ) {
+            Timber.plant(CopyleftNoticeTreeNew())
             Timber.plant(CopyleftNoticeTree())
         } else if (BuildConfig.DEBUG) {
             Timber.plant(Timber.DebugTree())

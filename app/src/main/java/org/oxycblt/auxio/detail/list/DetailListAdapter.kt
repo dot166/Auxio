@@ -23,8 +23,8 @@ import androidx.annotation.StringRes
 import androidx.appcompat.widget.TooltipCompat
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.databinding.ItemSortHeaderBinding
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.databinding.ItemSortHeaderBinding
 import org.oxycblt.auxio.list.BasicHeader
 import org.oxycblt.auxio.list.Item
 import org.oxycblt.auxio.list.PlainDivider

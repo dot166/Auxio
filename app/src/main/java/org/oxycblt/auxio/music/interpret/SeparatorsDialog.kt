@@ -22,12 +22,12 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AlertDialog
 import androidx.core.view.children
+import com.android.music.BuildConfig
+import com.android.music.R
+import com.android.music.databinding.DialogSeparatorsBinding
 import com.google.android.material.checkbox.MaterialCheckBox
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
-import org.oxycblt.auxio.BuildConfig
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.DialogSeparatorsBinding
 import org.oxycblt.auxio.music.MusicSettings
 import org.oxycblt.auxio.ui.ViewBindingMaterialDialogFragment
 import org.oxycblt.musikr.tag.interpret.Separators

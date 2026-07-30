@@ -34,10 +34,10 @@ import androidx.core.view.updatePadding
 import androidx.dynamicanimation.animation.SpringForce
 import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
+import com.android.music.R
+import com.android.music.databinding.FragmentPlaybackPanelBinding
 import dagger.hilt.android.AndroidEntryPoint
 import kotlin.math.abs
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.FragmentPlaybackPanelBinding
 import org.oxycblt.auxio.detail.DetailViewModel
 import org.oxycblt.auxio.list.ListViewModel
 import org.oxycblt.auxio.music.resolve

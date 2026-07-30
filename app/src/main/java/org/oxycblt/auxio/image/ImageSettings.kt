@@ -20,9 +20,9 @@ package org.oxycblt.auxio.image
 
 import android.content.Context
 import androidx.core.content.edit
+import com.android.music.R
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.settings.Settings
 import timber.log.Timber as L
 

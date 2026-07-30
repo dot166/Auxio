@@ -19,8 +19,8 @@
 package org.oxycblt.auxio.detail
 
 import androidx.annotation.StringRes
+import com.android.music.R
 import javax.inject.Inject
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.list.ListSettings
 import org.oxycblt.auxio.list.sort.Sort
 import org.oxycblt.auxio.music.MusicRepository

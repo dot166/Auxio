@@ -21,7 +21,7 @@ package org.oxycblt.auxio.music.decision
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import org.oxycblt.auxio.databinding.ItemNewPlaylistChoiceBinding
+import com.android.music.databinding.ItemNewPlaylistChoiceBinding
 import org.oxycblt.auxio.list.recycler.DialogRecyclerView
 import org.oxycblt.auxio.util.inflater
 

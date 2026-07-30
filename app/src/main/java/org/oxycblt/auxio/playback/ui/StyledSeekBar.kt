@@ -20,9 +20,9 @@ package org.oxycblt.auxio.playback.ui
 
 import android.content.Context
 import android.util.AttributeSet
+import com.android.music.databinding.ViewSeekBarBinding
 import com.google.android.material.slider.Slider
 import kotlin.math.max
-import org.oxycblt.auxio.databinding.ViewSeekBarBinding
 import org.oxycblt.auxio.playback.formatDurationDs
 import org.oxycblt.auxio.util.inflater
 import timber.log.Timber as L

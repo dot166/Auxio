@@ -22,10 +22,10 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
+import com.android.music.R
+import com.android.music.databinding.DialogPreAmpBinding
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.DialogPreAmpBinding
 import org.oxycblt.auxio.playback.PlaybackSettings
 import org.oxycblt.auxio.ui.ViewBindingMaterialDialogFragment
 import timber.log.Timber as L

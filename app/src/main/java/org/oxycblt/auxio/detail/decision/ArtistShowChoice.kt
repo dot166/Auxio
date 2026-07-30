@@ -19,7 +19,7 @@
 package org.oxycblt.auxio.detail.decision
 
 import android.view.ViewGroup
-import org.oxycblt.auxio.databinding.ItemPickerChoiceBinding
+import com.android.music.databinding.ItemPickerChoiceBinding
 import org.oxycblt.auxio.list.ClickableListListener
 import org.oxycblt.auxio.list.adapter.FlexibleListAdapter
 import org.oxycblt.auxio.list.adapter.SimpleDiffCallback

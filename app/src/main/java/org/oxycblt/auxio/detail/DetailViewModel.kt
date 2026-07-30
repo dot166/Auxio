@@ -20,12 +20,12 @@ package org.oxycblt.auxio.detail
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.android.music.R
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.detail.list.DiscDivider
 import org.oxycblt.auxio.detail.list.DiscHeader
 import org.oxycblt.auxio.detail.list.EditHeader

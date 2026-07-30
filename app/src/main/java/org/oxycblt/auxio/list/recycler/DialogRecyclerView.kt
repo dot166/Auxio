@@ -27,8 +27,8 @@ import androidx.core.view.isInvisible
 import androidx.core.view.updatePadding
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
 import com.google.android.material.divider.MaterialDivider
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.list.recycler.DialogRecyclerView.ViewHolder
 import org.oxycblt.auxio.util.getDimenPixels
 

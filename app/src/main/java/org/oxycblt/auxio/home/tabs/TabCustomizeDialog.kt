@@ -23,11 +23,11 @@ import android.view.LayoutInflater
 import androidx.appcompat.app.AlertDialog
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.BuildConfig
+import com.android.music.R
+import com.android.music.databinding.DialogTabsBinding
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
-import org.oxycblt.auxio.BuildConfig
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.DialogTabsBinding
 import org.oxycblt.auxio.home.HomeSettings
 import org.oxycblt.auxio.list.EditClickListListener
 import org.oxycblt.auxio.ui.ViewBindingMaterialDialogFragment

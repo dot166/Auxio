@@ -21,12 +21,12 @@ package org.oxycblt.auxio.list.recycler
 import android.annotation.SuppressLint
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
+import com.android.music.databinding.ItemHeaderBinding
+import com.android.music.databinding.ItemParentBinding
+import com.android.music.databinding.ItemSongBinding
 import com.google.android.material.divider.MaterialDivider
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.ItemHeaderBinding
-import org.oxycblt.auxio.databinding.ItemParentBinding
-import org.oxycblt.auxio.databinding.ItemSongBinding
 import org.oxycblt.auxio.list.BasicHeader
 import org.oxycblt.auxio.list.PlainDivider
 import org.oxycblt.auxio.list.SelectableListListener

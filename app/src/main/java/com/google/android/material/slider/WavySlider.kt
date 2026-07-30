@@ -38,12 +38,12 @@ import androidx.core.graphics.withSave
 import androidx.core.view.isVisible
 import androidx.dynamicanimation.animation.FloatValueHolder
 import androidx.dynamicanimation.animation.SpringAnimation
+import com.android.music.R
 import com.google.android.material.R as MR
 import com.google.android.material.motion.MotionUtils
 import kotlin.math.abs
 import kotlin.math.max
 import kotlin.math.min
-import org.oxycblt.auxio.R
 import timber.log.Timber
 
 /**

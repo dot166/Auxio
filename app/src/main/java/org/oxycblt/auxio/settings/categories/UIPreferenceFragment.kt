@@ -20,9 +20,9 @@ package org.oxycblt.auxio.settings.categories
 
 import androidx.navigation.fragment.findNavController
 import androidx.preference.Preference
+import com.android.music.R
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.settings.BasePreferenceFragment
 import org.oxycblt.auxio.settings.ui.WrappedDialogPreference
 import org.oxycblt.auxio.ui.UISettings

@@ -26,8 +26,8 @@ import android.view.LayoutInflater
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.navArgs
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.DialogErrorDetailsBinding
+import com.android.music.R
+import com.android.music.databinding.DialogErrorDetailsBinding
 import org.oxycblt.auxio.music.MusicViewModel
 import org.oxycblt.auxio.ui.ViewBindingMaterialDialogFragment
 import org.oxycblt.auxio.util.getSystemServiceCompat

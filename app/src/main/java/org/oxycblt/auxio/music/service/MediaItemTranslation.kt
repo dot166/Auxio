@@ -26,8 +26,8 @@ import android.support.v4.media.MediaBrowserCompat.MediaItem
 import android.support.v4.media.MediaDescriptionCompat
 import androidx.annotation.StringRes
 import androidx.media.utils.MediaConstants
-import org.oxycblt.auxio.BuildConfig
-import org.oxycblt.auxio.R
+import com.android.music.BuildConfig
+import com.android.music.R
 import org.oxycblt.auxio.image.CoverProvider
 import org.oxycblt.auxio.music.resolve
 import org.oxycblt.auxio.music.resolveNames

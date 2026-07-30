@@ -20,9 +20,9 @@ package org.oxycblt.auxio.music.locations
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.ItemMusicLocationBinding
-import org.oxycblt.auxio.databinding.ItemNoLocationsBinding
+import com.android.music.R
+import com.android.music.databinding.ItemMusicLocationBinding
+import com.android.music.databinding.ItemNoLocationsBinding
 import org.oxycblt.auxio.list.recycler.DialogRecyclerView
 import org.oxycblt.auxio.util.context
 import org.oxycblt.auxio.util.inflater

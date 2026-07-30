@@ -18,8 +18,8 @@
  
 package org.oxycblt.auxio.music
 
+import com.android.music.R
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
 
 /**
  * General configuration enum to control what kind of music is being worked with.

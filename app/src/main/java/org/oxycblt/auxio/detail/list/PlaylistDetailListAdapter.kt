@@ -27,11 +27,11 @@ import androidx.appcompat.widget.TooltipCompat
 import androidx.core.view.isInvisible
 import androidx.core.view.isVisible
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.databinding.ItemEditHeaderBinding
+import com.android.music.databinding.ItemEditableSongBinding
 import com.google.android.material.R as MR
 import com.google.android.material.shape.MaterialShapeDrawable
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.databinding.ItemEditHeaderBinding
-import org.oxycblt.auxio.databinding.ItemEditableSongBinding
 import org.oxycblt.auxio.list.EditableListListener
 import org.oxycblt.auxio.list.Item
 import org.oxycblt.auxio.list.PlainHeader

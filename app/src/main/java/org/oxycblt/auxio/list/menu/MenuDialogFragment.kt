@@ -27,7 +27,7 @@ import androidx.appcompat.view.menu.MenuBuilder
 import androidx.core.view.children
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.RecyclerView
-import org.oxycblt.auxio.databinding.DialogMenuBinding
+import com.android.music.databinding.DialogMenuBinding
 import org.oxycblt.auxio.list.ClickableListListener
 import org.oxycblt.auxio.list.ListViewModel
 import org.oxycblt.auxio.list.adapter.UpdateInstructions

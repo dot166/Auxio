@@ -18,7 +18,7 @@
  
 package org.oxycblt.auxio.music.service
 
-import org.oxycblt.auxio.R
+import com.android.music.R
 import org.oxycblt.auxio.music.MusicType
 
 sealed class TabNode {

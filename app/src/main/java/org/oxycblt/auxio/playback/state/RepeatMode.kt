@@ -18,8 +18,8 @@
  
 package org.oxycblt.auxio.playback.state
 
+import com.android.music.R
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
 
 /**
  * Represents the current repeat mode of the player.

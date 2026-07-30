@@ -22,7 +22,7 @@ import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.widget.Toolbar
 import androidx.viewbinding.ViewBinding
-import org.oxycblt.auxio.R
+import com.android.music.R
 import org.oxycblt.auxio.music.MusicViewModel
 import org.oxycblt.auxio.playback.PlaybackViewModel
 import org.oxycblt.auxio.ui.AuxioToolbar

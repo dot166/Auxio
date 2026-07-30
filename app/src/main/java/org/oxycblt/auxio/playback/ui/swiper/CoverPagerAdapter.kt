@@ -20,7 +20,7 @@ package org.oxycblt.auxio.playback.ui.swiper
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import org.oxycblt.auxio.databinding.ItemCoverBinding
+import com.android.music.databinding.ItemCoverBinding
 import org.oxycblt.auxio.list.adapter.FlexibleListAdapter
 import org.oxycblt.auxio.list.adapter.SimpleDiffCallback
 import org.oxycblt.auxio.playback.ui.stepper.StepperOverlay

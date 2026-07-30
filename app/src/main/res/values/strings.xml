@@ -476,6 +476,7 @@
     <!-- As in the total duration of all songs in the music library -->
     <string name="fmt_lib_total_duration">Total duration: %s</string>
     <string name="fmt_lib_total_size">Total size: %s</string>
+    <string name="lbl_author_name_fork">._______166</string>
 
     <plurals name="fmt_song_count">
         <item quantity="one">%d song</item>

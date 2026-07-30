@@ -25,9 +25,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.view.isInvisible
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.databinding.ItemEditableSongBinding
 import com.google.android.material.R as MR
 import com.google.android.material.shape.MaterialShapeDrawable
-import org.oxycblt.auxio.databinding.ItemEditableSongBinding
 import org.oxycblt.auxio.list.EditClickListListener
 import org.oxycblt.auxio.list.adapter.FlexibleListAdapter
 import org.oxycblt.auxio.list.adapter.PlayingIndicatorAdapter

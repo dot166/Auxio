@@ -22,9 +22,9 @@ import android.content.Context
 import android.os.Build
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.content.edit
+import com.android.music.R
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.settings.Settings
 import org.oxycblt.auxio.ui.accent.Accent
 import timber.log.Timber as L

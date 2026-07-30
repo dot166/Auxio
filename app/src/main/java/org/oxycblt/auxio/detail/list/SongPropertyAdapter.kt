@@ -23,8 +23,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.annotation.StringRes
 import androidx.recyclerview.widget.RecyclerView
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.ItemSongPropertyBinding
+import com.android.music.R
+import com.android.music.databinding.ItemSongPropertyBinding
 import org.oxycblt.auxio.list.adapter.FlexibleListAdapter
 import org.oxycblt.auxio.list.adapter.SimpleDiffCallback
 import org.oxycblt.auxio.list.recycler.DialogRecyclerView

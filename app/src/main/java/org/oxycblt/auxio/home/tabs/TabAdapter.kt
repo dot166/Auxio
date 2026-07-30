@@ -22,8 +22,8 @@ import android.annotation.SuppressLint
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.ItemTabBinding
+import com.android.music.R
+import com.android.music.databinding.ItemTabBinding
 import org.oxycblt.auxio.list.EditClickListListener
 import org.oxycblt.auxio.list.recycler.DialogRecyclerView
 import org.oxycblt.auxio.music.MusicType

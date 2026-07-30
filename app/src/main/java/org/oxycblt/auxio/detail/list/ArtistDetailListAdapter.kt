@@ -20,10 +20,10 @@ package org.oxycblt.auxio.detail.list
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
+import com.android.music.databinding.ItemParentBinding
+import com.android.music.databinding.ItemSongBinding
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
-import org.oxycblt.auxio.databinding.ItemParentBinding
-import org.oxycblt.auxio.databinding.ItemSongBinding
 import org.oxycblt.auxio.list.Item
 import org.oxycblt.auxio.list.SelectableListListener
 import org.oxycblt.auxio.list.adapter.SelectionIndicatorAdapter

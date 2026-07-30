@@ -48,6 +48,7 @@ import coil3.request.ImageRequest
 import coil3.request.target
 import coil3.request.transformations
 import coil3.util.CoilUtils
+import com.android.music.R
 import com.google.android.material.R as MR
 import com.google.android.material.shape.MaterialShapeDrawable
 import com.google.android.material.shape.RelativeCornerSize
@@ -55,7 +56,6 @@ import com.google.android.material.shape.ShapeAppearanceModel
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 import kotlin.math.min
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.image.coil.GalleryCoverCollection
 import org.oxycblt.auxio.image.coil.RoundedRectTransformation
 import org.oxycblt.auxio.image.coil.SmatteringCoverComposition

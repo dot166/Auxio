@@ -30,6 +30,8 @@ import androidx.core.view.isVisible
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.findNavController
 import androidx.navigation.fragment.findNavController
+import com.android.music.R
+import com.android.music.databinding.FragmentMainBinding
 import com.google.android.material.R as MR
 import com.google.android.material.bottomsheet.BackportBottomSheetBehavior
 import com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -43,7 +45,6 @@ import java.lang.reflect.Method
 import javax.inject.Inject
 import kotlin.math.max
 import kotlin.math.min
-import org.oxycblt.auxio.databinding.FragmentMainBinding
 import org.oxycblt.auxio.detail.DetailViewModel
 import org.oxycblt.auxio.detail.Show
 import org.oxycblt.auxio.home.HomeViewModel

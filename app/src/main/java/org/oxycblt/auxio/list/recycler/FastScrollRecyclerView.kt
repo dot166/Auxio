@@ -51,6 +51,7 @@ import androidx.dynamicanimation.animation.FloatValueHolder
 import androidx.dynamicanimation.animation.SpringAnimation
 import androidx.dynamicanimation.animation.SpringForce
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.R
 import com.google.android.material.R as MR
 import com.google.android.material.motion.MotionUtils
 import com.google.android.material.textview.MaterialTextView
@@ -59,7 +60,6 @@ import kotlin.math.hypot
 import kotlin.math.max
 import kotlin.math.min
 import kotlin.math.roundToInt
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.ui.Effect
 import org.oxycblt.auxio.ui.ExpressiveShapes
 import org.oxycblt.auxio.ui.Spatial

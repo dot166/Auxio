@@ -21,12 +21,12 @@ package org.oxycblt.auxio.music.service
 import android.content.Context
 import android.os.PowerManager
 import coil3.ImageLoader
+import com.android.music.BuildConfig
 import javax.inject.Inject
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
-import org.oxycblt.auxio.BuildConfig
 import org.oxycblt.auxio.ForegroundListener
 import org.oxycblt.auxio.ForegroundServiceNotification
 import org.oxycblt.auxio.music.IndexingState

@@ -19,7 +19,7 @@
 package org.oxycblt.auxio.ui.accent
 
 import android.os.Build
-import org.oxycblt.auxio.R
+import com.android.music.R
 import timber.log.Timber as L
 
 private val accentNames =

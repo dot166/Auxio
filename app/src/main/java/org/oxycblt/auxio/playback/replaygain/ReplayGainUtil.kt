@@ -19,8 +19,8 @@
 package org.oxycblt.auxio.playback.replaygain
 
 import android.content.Context
+import com.android.music.R
 import kotlin.math.abs
-import org.oxycblt.auxio.R
 
 /**
  * Format a decibel value in a human-readable format.

@@ -18,7 +18,7 @@
  
 package org.oxycblt.auxio.playback.service
 
-import org.oxycblt.auxio.BuildConfig
+import com.android.music.BuildConfig
 
 object PlaybackActions {
     const val ACTION_INC_REPEAT_MODE = BuildConfig.APPLICATION_ID + ".action.LOOP"

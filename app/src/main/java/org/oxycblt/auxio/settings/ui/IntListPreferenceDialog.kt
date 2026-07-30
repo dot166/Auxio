@@ -22,9 +22,9 @@ import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.widget.AppCompatButton
 import androidx.preference.PreferenceDialogFragmentCompat
+import com.android.music.BuildConfig
+import com.android.music.R
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import org.oxycblt.auxio.BuildConfig
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.util.fixDoubleRipple
 
 /**

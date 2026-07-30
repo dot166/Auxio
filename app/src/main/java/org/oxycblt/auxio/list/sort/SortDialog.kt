@@ -22,7 +22,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.core.view.updatePadding
 import androidx.recyclerview.widget.RecyclerView
-import org.oxycblt.auxio.databinding.DialogSortBinding
+import com.android.music.databinding.DialogSortBinding
 import org.oxycblt.auxio.list.ClickableListListener
 import org.oxycblt.auxio.list.adapter.UpdateInstructions
 import org.oxycblt.auxio.ui.ViewBindingBottomSheetDialogFragment

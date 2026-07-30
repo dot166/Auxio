@@ -28,11 +28,11 @@ import android.view.MotionEvent
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.content.withStyledAttributes
 import androidx.dynamicanimation.animation.SpringAnimation
+import com.android.music.R
 import com.google.android.material.shape.MaterialShapeDrawable
 import com.google.android.material.shape.ShapeAppearanceModel
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.ui.Effect
 import org.oxycblt.auxio.ui.UISettings
 

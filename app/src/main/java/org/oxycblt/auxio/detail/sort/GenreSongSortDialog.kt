@@ -21,8 +21,8 @@ package org.oxycblt.auxio.detail.sort
 import android.os.Bundle
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
+import com.android.music.databinding.DialogSortBinding
 import dagger.hilt.android.AndroidEntryPoint
-import org.oxycblt.auxio.databinding.DialogSortBinding
 import org.oxycblt.auxio.detail.DetailViewModel
 import org.oxycblt.auxio.list.sort.Sort
 import org.oxycblt.auxio.list.sort.SortDialog

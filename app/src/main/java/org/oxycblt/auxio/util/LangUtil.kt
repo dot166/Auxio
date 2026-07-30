@@ -18,8 +18,8 @@
  
 package org.oxycblt.auxio.util
 
+import com.android.music.BuildConfig
 import kotlin.reflect.KClass
-import org.oxycblt.auxio.BuildConfig
 
 /**
  * Sanitizes a value that is unlikely to be null. On debug builds, this aliases to [requireNotNull],

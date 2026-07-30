@@ -19,10 +19,10 @@
 package org.oxycblt.auxio.music
 
 import android.content.Context
+import com.android.music.R
 import java.text.ParseException
 import java.text.SimpleDateFormat
 import kotlin.math.max
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.util.concatLocalized
 import org.oxycblt.musikr.Music
 import org.oxycblt.musikr.fs.Format

@@ -25,9 +25,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.WindowInsets
 import androidx.coordinatorlayout.widget.CoordinatorLayout
+import com.android.music.R
 import com.google.android.material.R as MR
 import com.google.android.material.bottomsheet.BackportBottomSheetBehavior
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.util.getDimen
 import org.oxycblt.auxio.util.getDimenPixels
 import org.oxycblt.auxio.util.systemGestureInsetsCompat

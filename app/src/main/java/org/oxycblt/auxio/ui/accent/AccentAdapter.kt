@@ -23,8 +23,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.widget.TooltipCompat
 import androidx.recyclerview.widget.RecyclerView
+import com.android.music.databinding.ItemAccentBinding
 import com.google.android.material.R as MR
-import org.oxycblt.auxio.databinding.ItemAccentBinding
 import org.oxycblt.auxio.list.ClickableListListener
 import org.oxycblt.auxio.util.getAttrColorCompat
 import org.oxycblt.auxio.util.getColorCompat

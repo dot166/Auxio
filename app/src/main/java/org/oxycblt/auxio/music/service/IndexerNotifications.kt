@@ -21,10 +21,10 @@ package org.oxycblt.auxio.music.service
 import android.content.Context
 import android.os.SystemClock
 import androidx.core.app.NotificationCompat
-import org.oxycblt.auxio.BuildConfig
+import com.android.music.BuildConfig
+import com.android.music.R
 import org.oxycblt.auxio.ForegroundServiceNotification
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.util.newMainPendingIntent
 import org.oxycblt.musikr.IndexingProgress
 import timber.log.Timber as L

@@ -21,11 +21,11 @@ package org.oxycblt.auxio.music
 import android.content.Context
 import androidx.core.content.edit
 import androidx.core.net.toUri
+import com.android.music.R
 import dagger.hilt.android.qualifiers.ApplicationContext
 import java.util.UUID
 import javax.inject.Inject
 import org.oxycblt.auxio.IntegerTable
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.music.locations.LocationMode
 import org.oxycblt.auxio.settings.Settings
 import org.oxycblt.auxio.util.unlikelyToBeNull

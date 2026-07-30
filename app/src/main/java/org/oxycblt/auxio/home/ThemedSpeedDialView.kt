@@ -40,6 +40,7 @@ import androidx.core.widget.TextViewCompat
 import androidx.dynamicanimation.animation.FloatValueHolder
 import androidx.dynamicanimation.animation.SpringAnimation
 import androidx.dynamicanimation.animation.SpringForce
+import com.android.music.R
 import com.google.android.material.R as MR
 import com.google.android.material.motion.MotionUtils
 import com.google.android.material.shape.MaterialShapeDrawable
@@ -48,7 +49,6 @@ import com.leinardi.android.speeddial.SpeedDialActionItem
 import com.leinardi.android.speeddial.SpeedDialView
 import kotlin.math.roundToInt
 import kotlinx.parcelize.Parcelize
-import org.oxycblt.auxio.R
 import org.oxycblt.auxio.util.getAttrColorCompat
 import org.oxycblt.auxio.util.getAttrResourceId
 import org.oxycblt.auxio.util.getDimen

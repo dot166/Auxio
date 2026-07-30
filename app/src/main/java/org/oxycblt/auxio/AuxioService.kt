@@ -31,6 +31,7 @@ import androidx.core.app.NotificationManagerCompat
 import androidx.core.app.ServiceCompat
 import androidx.media.MediaBrowserServiceCompat
 import androidx.media.utils.MediaConstants
+import com.android.music.BuildConfig
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 import org.oxycblt.auxio.music.service.MusicServiceFragment
