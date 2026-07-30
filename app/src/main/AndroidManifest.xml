@@ -61,27 +61,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
                 <category android:name="android.intent.category.APP_MUSIC" />
             </intent-filter>
-
-            <intent-filter>
-                <!--
-                Signal that we can take audio of *any* format, file or content. This is important,
-                as some apps use this to determine if Auxio is eligible to be a default music
-                player.
-                -->
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-
-                <data android:scheme="content" />
-                <data android:scheme="file" />
-
-                <!-- Normal audio mime types + weird mime types -->
-                <data android:mimeType="audio/*" />
-                <data android:mimeType="application/ogg" />
-                <data android:mimeType="application/x-ogg" />
-                <data android:mimeType="application/itunes" />
-            </intent-filter>
         </activity>
 
 
@@ -155,5 +134,31 @@
                 <action android:name="com.twofortyfouram.locale.intent.action.EDIT_SETTING" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".preview.AudioPreview" android:theme="@style/Theme.Auxio.DialogActivity"
+            android:taskAffinity=""
+            android:excludeFromRecents="true" android:exported="true" >
+            <intent-filter>
+                <!--
+                Signal that we can take audio of *any* format, file or content. This is important,
+                as some apps use this to determine if Auxio is eligible to be a default music
+                player.
+                -->
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="content" />
+                <data android:scheme="file" />
+
+                <!-- Normal audio mime types + weird mime types -->
+                <data android:mimeType="audio/*" />
+                <data android:mimeType="application/ogg" />
+                <data android:mimeType="application/x-ogg" />
+                <data android:mimeType="application/itunes" />
+            </intent-filter>
+        </activity>
+
     </application>
 </manifest>

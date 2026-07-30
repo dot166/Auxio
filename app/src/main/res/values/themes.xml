@@ -783,4 +783,14 @@
         <item name="colorSurfaceContainerHigh">@color/grey_surfaceContainerHigh</item>
         <item name="colorSurfaceContainerHighest">@color/grey_surfaceContainerHighest</item>
     </style>
+    <style name="Theme.Auxio.DialogActivity" parent="Theme.Material3.DayNight.Dialog">
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+
+        <item name="dialogPreferredPadding">0dp</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
 </resources>
